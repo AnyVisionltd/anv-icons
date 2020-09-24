@@ -7,7 +7,7 @@
     "build": "npx @svgr/cli -d temp icons && rollup -c && rm -rf ./temp"
   },
   "files": [
-    "dist/"
+    "./dist/index.js"
   ],
   "repository": {
     "type": "git",

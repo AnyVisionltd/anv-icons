@@ -4,7 +4,7 @@
   "description": "Anyvision Icons Library",
   "main": "dist/index.js",
   "scripts": {
-    "build": "npx @svgr/cli -d dist icons"
+    "build": "npx @svgr/cli -d temp icons && rollup -c && rm -rf ./temp"
   },
   "files": [
     "dist/"
@@ -21,6 +21,13 @@
   },
   "homepage": "https://github.com/AnyVisionltd/anv-icons#readme",
   "dependencies": {
-    "react": "^16.13.1"
+    "@svgr/rollup": "^5.4.0",
+    "react": "^16.13.1",
+    "rollup": "^2.28.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.10.4"
   }
 }

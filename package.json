@@ -1,0 +1,23 @@
+{
+  "name": "anv-icons",
+  "version": "0.0.1",
+  "description": "Anyvision Icons Library",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx @svgr/cli -d dist icons"
+  },
+  "files": [
+    "dist/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnyVisionltd/anv-icons.git",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "Anyvision Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnyVisionltd/anv-icons/issues"
+  },
+  "homepage": "https://github.com/AnyVisionltd/anv-icons#readme",
+}

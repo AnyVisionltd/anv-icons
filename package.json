@@ -20,9 +20,7 @@
     "url": "https://github.com/AnyVisionltd/anv-icons/issues"
   },
   "homepage": "https://github.com/AnyVisionltd/anv-icons#readme",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
     "@svgr/rollup": "^5.4.0",

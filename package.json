@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AnyVisionltd/anv-icons/issues"
   },
-  "homepage": "https://github.com/AnyVisionltd/anv-icons#readme"
+  "homepage": "https://github.com/AnyVisionltd/anv-icons#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }

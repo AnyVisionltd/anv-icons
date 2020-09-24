@@ -1,6 +1,6 @@
 {
   "name": "@anyvision/anv-icons",
-  "version": "0.0.2-beta.2",
+  "version": "0.0.2-beta.3",
   "description": "Anyvision Icons Library",
   "main": "dist/index.js",
   "scripts": {

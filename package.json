@@ -1,6 +1,6 @@
 {
   "name": "@anyvision/anv-icons",
-  "version": "0.0.4-beta.3",
+  "version": "0.0.4-beta.4",
   "description": "Anyvision Icons Library",
   "main": "dist/index.js",
   "scripts": {
@@ -16,8 +16,7 @@
   },
   "author": "Anyvision Ltd",
   "license": "MIT",
-  "bugs": {
-  },
+  "bugs": {},
   "homepage": "https://github.com/AnyVisionltd/anv-icons#readme",
   "dependencies": {},
   "devDependencies": {

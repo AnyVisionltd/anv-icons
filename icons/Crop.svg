@@ -1,0 +1,4 @@
+<svg id="Crop" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <path id="Crop-2" data-name="Crop" d="M16.656,14.125h-.844V6.531a.844.844,0,0,0-.844-.844H7.375V4.844a.844.844,0,1,0-1.687,0v.844H4.844a.844.844,0,1,0,0,1.687h.844v7.594a.844.844,0,0,0,.844.844h7.594v.844a.844.844,0,0,0,1.688,0v-.844h.844a.844.844,0,0,0,0-1.687Zm-2.531,0H7.375V7.375h6.75Z" transform="translate(1.25 1.25)" fill="#021d3d"/>
+</svg>

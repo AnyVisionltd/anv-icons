@@ -1,0 +1,4 @@
+<svg id="List_Sort_-_Descending" data-name="List Sort - Descending" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <path id="sort-amount-down" d="M5.43,12.631l-.232.24V6.8a.8.8,0,1,0-1.6,0v6.071l-.232-.24a.8.8,0,0,0-1.136,1.136l1.6,1.6a.8.8,0,0,0,.264.168.752.752,0,0,0,.608,0,.8.8,0,0,0,.264-.168l1.6-1.6A.8.8,0,0,0,5.43,12.631ZM9.2,7.6h8a.8.8,0,1,0,0-1.6h-8a.8.8,0,1,0,0,1.6Zm8,2.4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Zm0,4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Z" transform="translate(2.004 1)" fill="#021d3d"/>
+</svg>

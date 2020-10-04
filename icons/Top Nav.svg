@@ -1,0 +1,7 @@
+<svg id="Top_nav" data-name="Top nav" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <g id="Top_nav-2" data-name="Top nav" transform="translate(4.5 4.5)">
+    <path id="Shape-2" data-name="Shape" d="M13.125,15H1.875A1.881,1.881,0,0,1,0,13.125V1.875A1.881,1.881,0,0,1,1.875,0h11.25A1.881,1.881,0,0,1,15,1.875v11.25A1.881,1.881,0,0,1,13.125,15ZM1.875,1.5a.376.376,0,0,0-.375.375v11.25a.376.376,0,0,0,.375.375h11.25a.376.376,0,0,0,.375-.375V1.875a.376.376,0,0,0-.375-.375Z" fill="#021d3d" opacity="0.24"/>
+    <path id="Shape-3" data-name="Shape" d="M2,0H13a2,2,0,0,1,2,2V5.625a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#021d3d"/>
+  </g>
+</svg>

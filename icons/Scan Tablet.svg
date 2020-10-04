@@ -1,0 +1,7 @@
+<svg id="Scan_Tablet" data-name="Scan Tablet" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <g id="Scan" transform="translate(4.988 4.5)">
+    <path id="Mobile" d="M8.691,15H2.37A2.318,2.318,0,0,1,0,12.746v-2.9H1.583v2.9a.772.772,0,0,0,.787.754H8.691a.771.771,0,0,0,.785-.754v-2.9h1.585v2.9A2.318,2.318,0,0,1,8.691,15ZM1.583,3.286h0L0,3.283V2.253A2.317,2.317,0,0,1,2.37,0H8.691a2.317,2.317,0,0,1,2.37,2.253V3.281H9.476V2.253A.771.771,0,0,0,8.691,1.5H2.37a.772.772,0,0,0-.787.754V3.286Z" transform="translate(1.5 0)" fill="#021d3d"/>
+    <rect id="Shape-2" data-name="Shape" width="1.5" height="14.059" rx="0.75" transform="translate(0 7.285) rotate(-90)" fill="#021d3d"/>
+  </g>
+</svg>

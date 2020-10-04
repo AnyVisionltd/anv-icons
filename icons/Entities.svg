@@ -1,0 +1,4 @@
+<svg id="entities" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Base" width="24" height="24" fill="none"/>
+  <path id="Entities-2" data-name="Entities" d="M0,7.2a7.289,7.289,0,0,1,.048-.834A7.2,7.2,0,0,1,7.2,0a.788.788,0,0,1,0,1.575A5.623,5.623,0,1,0,12.823,7.2V7.166a.79.79,0,0,1,.785-.792h0a.784.784,0,0,1,.785.777V7.2A7.2,7.2,0,0,1,0,7.2Zm4.917.121a2.4,2.4,0,1,1,2.4,2.4A2.4,2.4,0,0,1,4.917,7.32Zm4.8-4.8a1.8,1.8,0,1,1,1.8,1.8A1.8,1.8,0,0,1,9.715,2.519Z" transform="translate(4.801 4.801)" fill="#021d3d" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+</svg>

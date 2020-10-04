@@ -1,0 +1,4 @@
+<svg id="Chat_Bubble_-_Add" data-name="Chat Bubble - Add" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <path id="Add_comment" data-name="Add comment" d="M9.482,2A7.489,7.489,0,0,0,1.993,9.489,7.407,7.407,0,0,0,3.686,14.23l-1.5,1.5a.73.73,0,0,0,.554,1.251h6.74A7.489,7.489,0,0,0,9.482,2Zm0,13.481H4.547l.7-.7a.749.749,0,0,0,0-1.056,5.992,5.992,0,1,1,4.239,1.753Zm2.247-6.74h-1.5v-1.5a.749.749,0,0,0-1.5,0v1.5h-1.5a.749.749,0,0,0,0,1.5h1.5v1.5a.749.749,0,0,0,1.5,0v-1.5h1.5a.749.749,0,0,0,0-1.5Z" transform="translate(2.528 2.499)" fill="#021d3d"/>
+</svg>

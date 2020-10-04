@@ -1,0 +1,4 @@
+<svg id="expand_corner" data-name="expand corner" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="none" opacity="0.12"/>
+  <path id="expand-from-corner" d="M8.75,9.5h-6a.75.75,0,0,0-.75.75v6a.75.75,0,0,0,.75.75h6a.75.75,0,0,0,.75-.75v-6A.75.75,0,0,0,8.75,9.5ZM8,15.5H3.5V11H8ZM16.94,2.465A.762.762,0,0,0,16.25,2h-4.5a.75.75,0,1,0,0,1.5h2.693L10.467,7.468a.753.753,0,1,0,1.065,1.065L15.5,4.558V7.25a.75.75,0,0,0,1.5,0V2.75A.75.75,0,0,0,16.94,2.465Z" transform="translate(3 3)" fill="#021d3d"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg id="clock_history" data-name="clock history" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <path id="history-alt" d="M9.664,2a8,8,0,0,0-5.5,2.216V2.8a.8.8,0,1,0-1.6,0V6.4a.8.8,0,0,0,.8.8h3.6a.8.8,0,1,0,0-1.6H5.04A6.4,6.4,0,1,1,9.664,16.4a.8.8,0,1,0,0,1.6,8,8,0,0,0,0-16Zm0,4.8a.8.8,0,0,0-.8.8V10a.8.8,0,0,0,.8.8h1.6a.8.8,0,0,0,0-1.6h-.8V7.6A.8.8,0,0,0,9.664,6.8Z" transform="translate(1.439 2)" fill="#021d3d"/>
+</svg>

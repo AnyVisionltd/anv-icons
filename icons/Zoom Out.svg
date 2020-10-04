@@ -1,4 +1,4 @@
 <svg id="zoom_out" data-name="zoom out" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="none" opacity="0.12"/>
+  <rect id="Shape" width="24" height="24" fill="none"  opacity="0"/>
   <path id="search-minus" d="M16.78,15.715,14,12.954A6.751,6.751,0,1,0,12.954,14l2.76,2.76a.745.745,0,1,0,1.065-1.043ZM8.746,14A5.251,5.251,0,1,1,14,8.746,5.251,5.251,0,0,1,8.746,14Zm3-6h-6a.75.75,0,0,0,0,1.5h6a.75.75,0,1,0,0-1.5Z" transform="translate(2.021 3.021)" fill="#021d3d"/>
 </svg>

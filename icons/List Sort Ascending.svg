@@ -1,4 +1,4 @@
 <svg id="List_Sort_-_Ascending" data-name="List Sort - Ascending" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="sort-amount-up" d="M4.967,6.232a.827.827,0,0,0-1.136,0l-1.6,1.6A.8.8,0,0,0,3.367,8.967l.232-.24V14.8a.8.8,0,0,0,1.6,0V8.727l.232.24A.8.8,0,1,0,6.566,7.832ZM9.2,7.6h8a.8.8,0,1,0,0-1.6h-8a.8.8,0,1,0,0,1.6Zm8,6.4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Zm0-4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Z" transform="translate(2.008 1)" fill="#021d3d"/>
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <path id="sort-amount-up" d="M4.967,6.232a.827.827,0,0,0-1.136,0l-1.6,1.6A.8.8,0,0,0,3.367,8.967l.232-.24V14.8a.8.8,0,0,0,1.6,0V8.727l.232.24A.8.8,0,1,0,6.566,7.832ZM9.2,7.6h8a.8.8,0,1,0,0-1.6h-8a.8.8,0,1,0,0,1.6Zm8,6.4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Zm0-4h-8a.8.8,0,1,0,0,1.6h8a.8.8,0,1,0,0-1.6Z" transform="translate(2.008 1)"/>
+  <rect id="Shape" width="24" height="24" opacity="0"/>
 </svg>

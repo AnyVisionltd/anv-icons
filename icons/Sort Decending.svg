@@ -3,7 +3,7 @@
     <rect id="Shape-2" data-name="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
   </g>
   <g id="Sort" transform="translate(7.352 4.5)">
-    <path id="Arrow_solid" data-name="Arrow solid" d="M3.962.257.26,3.96A.874.874,0,0,0,.769,5.448v.007H8.442V5.447A.875.875,0,0,0,8.951,3.96L5.2.257a.877.877,0,0,0-1.241,0Z" transform="translate(0 0)" fill="#021d3d" opacity="0.12"/>
-    <path id="Arrow_solid-2" data-name="Arrow solid" d="M3.962.257.26,3.96A.874.874,0,0,0,.769,5.448v.007H8.442V5.447A.875.875,0,0,0,8.951,3.96L5.2.257a.877.877,0,0,0-1.241,0Z" transform="translate(9.208 15) rotate(180)" fill="#021d3d"/>
+    <path id="Arrow_solid" data-name="Arrow solid" d="M3.962.257.26,3.96A.874.874,0,0,0,.769,5.448v.007H8.442V5.447A.875.875,0,0,0,8.951,3.96L5.2.257a.877.877,0,0,0-1.241,0Z" transform="translate(0 0)" fill="#021d3d"  opacity="0"/>
+    <path id="Arrow_solid-2" data-name="Arrow solid" d="M3.962.257.26,3.96A.874.874,0,0,0,.769,5.448v.007H8.442V5.447A.875.875,0,0,0,8.951,3.96L5.2.257a.877.877,0,0,0-1.241,0Z" transform="translate(9.208 15) rotate(180)"/>
   </g>
 </svg>

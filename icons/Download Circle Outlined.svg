@@ -1,6 +1,6 @@
 <svg id="download_circle_outlined" data-name="download circle outlined" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <g id="Shape" opacity="0">
-    <rect id="Shape-2" data-name="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+    <rect id="Shape-2" data-name="Shape" width="24" height="24"  opacity="0"/>
   </g>
-  <path id="Uploading" d="M10.033,12.283a.775.775,0,0,1-1.065,0l-2.25-2.25A.753.753,0,1,1,7.783,8.967l.967.975V7.25a.75.75,0,0,1,1.5,0V9.943l.967-.975a.753.753,0,1,1,1.065,1.065ZM9.5,17A7.5,7.5,0,1,1,17,9.5,7.5,7.5,0,0,1,9.5,17Zm0-13.5a6,6,0,1,0,6,6A6,6,0,0,0,9.5,3.5Z" transform="translate(2.5 2.5)" fill="#021d3d"/>
+  <path id="Uploading" d="M10.033,12.283a.775.775,0,0,1-1.065,0l-2.25-2.25A.753.753,0,1,1,7.783,8.967l.967.975V7.25a.75.75,0,0,1,1.5,0V9.943l.967-.975a.753.753,0,1,1,1.065,1.065ZM9.5,17A7.5,7.5,0,1,1,17,9.5,7.5,7.5,0,0,1,9.5,17Zm0-13.5a6,6,0,1,0,6,6A6,6,0,0,0,9.5,3.5Z" transform="translate(2.5 2.5)" />
 </svg>

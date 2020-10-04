@@ -1,6 +1,6 @@
 <svg id="upload_circle_outlined" data-name="upload circle outlined" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <g id="Shape" opacity="0">
-    <rect id="Shape-2" data-name="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+    <rect id="Shape-2" data-name="Shape" width="24" height="24"  opacity="0"/>
   </g>
-  <path id="Uploading" d="M10.033,6.717a.775.775,0,0,0-1.065,0l-2.25,2.25a.753.753,0,0,0,1.065,1.065l.967-.975V11.75a.75.75,0,0,0,1.5,0V9.057l.967.975a.753.753,0,1,0,1.065-1.065ZM9.5,2A7.5,7.5,0,1,0,17,9.5,7.5,7.5,0,0,0,9.5,2Zm0,13.5a6,6,0,1,1,6-6A6,6,0,0,1,9.5,15.5Z" transform="translate(2.5 2.5)" fill="#021d3d"/>
+  <path id="Uploading" d="M10.033,6.717a.775.775,0,0,0-1.065,0l-2.25,2.25a.753.753,0,0,0,1.065,1.065l.967-.975V11.75a.75.75,0,0,0,1.5,0V9.057l.967.975a.753.753,0,1,0,1.065-1.065ZM9.5,2A7.5,7.5,0,1,0,17,9.5,7.5,7.5,0,0,0,9.5,2Zm0,13.5a6,6,0,1,1,6-6A6,6,0,0,1,9.5,15.5Z" transform="translate(2.5 2.5)" />
 </svg>

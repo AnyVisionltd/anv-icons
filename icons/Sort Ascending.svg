@@ -1,9 +1,9 @@
 <svg id="Sort_ascending" data-name="Sort ascending" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <g id="Shape" opacity="0">
-    <rect id="Shape-2" data-name="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+    <rect id="Shape-2" data-name="Shape" width="24" height="24"  opacity="0"/>
   </g>
   <g id="Sort" transform="translate(7.351 4.5)">
-    <path id="Arrow_solid" data-name="Arrow solid" d="M3.962,5.2l-3.7-3.7A.874.874,0,0,1,.769.007V0H8.442V.008a.875.875,0,0,1,.509,1.487L5.2,5.2a.877.877,0,0,1-1.241,0Z" transform="translate(0 9.545)" fill="#021d3d"  opacity="0"/>
+    <path id="Arrow_solid" data-name="Arrow solid" d="M3.962,5.2l-3.7-3.7A.874.874,0,0,1,.769.007V0H8.442V.008a.875.875,0,0,1,.509,1.487L5.2,5.2a.877.877,0,0,1-1.241,0Z" transform="translate(0 9.545)"   opacity="0"/>
     <path id="Arrow_solid-2" data-name="Arrow solid" d="M3.962,5.2l-3.7-3.7A.874.874,0,0,1,.769.007V0H8.442V.008a.875.875,0,0,1,.509,1.487L5.2,5.2a.877.877,0,0,1-1.241,0Z" transform="translate(9.208 5.455) rotate(180)/>
   </g>
 </svg>

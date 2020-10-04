@@ -1,11 +1,11 @@
 <svg id="Drag" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <rect id="Shape" width="24" height="24"  opacity="0"/>
   <g id="dots" transform="translate(7.5 4.5)">
-    <circle id="Ellipse_357" data-name="Ellipse 357" cx="1.5" cy="1.5" r="1.5" fill="#021d3d"/>
-    <circle id="Ellipse_362" data-name="Ellipse 362" cx="1.5" cy="1.5" r="1.5" transform="translate(6)" fill="#021d3d"/>
-    <circle id="Ellipse_358" data-name="Ellipse 358" cx="1.5" cy="1.5" r="1.5" transform="translate(0 6)" fill="#021d3d"/>
-    <circle id="Ellipse_361" data-name="Ellipse 361" cx="1.5" cy="1.5" r="1.5" transform="translate(6 6)" fill="#021d3d"/>
-    <circle id="Ellipse_359" data-name="Ellipse 359" cx="1.5" cy="1.5" r="1.5" transform="translate(0 12)" fill="#021d3d"/>
-    <circle id="Ellipse_360" data-name="Ellipse 360" cx="1.5" cy="1.5" r="1.5" transform="translate(6 12)" fill="#021d3d"/>
+    <circle id="Ellipse_357" data-name="Ellipse 357" cx="1.5" cy="1.5" r="1.5"  />
+    <circle id="Ellipse_362" data-name="Ellipse 362" cx="1.5" cy="1.5" r="1.5" transform="translate(6)"  />
+    <circle id="Ellipse_358" data-name="Ellipse 358" cx="1.5" cy="1.5" r="1.5" transform="translate(0 6)"  />
+    <circle id="Ellipse_361" data-name="Ellipse 361" cx="1.5" cy="1.5" r="1.5" transform="translate(6 6)"  />
+    <circle id="Ellipse_359" data-name="Ellipse 359" cx="1.5" cy="1.5" r="1.5" transform="translate(0 12)"  />
+    <circle id="Ellipse_360" data-name="Ellipse 360" cx="1.5" cy="1.5" r="1.5" transform="translate(6 12)"  />
   </g>
 </svg>

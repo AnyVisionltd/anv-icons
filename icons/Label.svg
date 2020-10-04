@@ -1,4 +1,4 @@
 <svg id="label" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Rectangle_3683" data-name="Rectangle 3683" width="24" height="24" fill="none"  opacity="0"/>
-  <path id="label-2" data-name="label" d="M17.763,10.231l-4-4A.8.8,0,0,0,13.2,6H4.4A2.4,2.4,0,0,0,2,8.4v4.8a2.4,2.4,0,0,0,2.4,2.4h8.8a.8.8,0,0,0,.568-.232l4-4a.8.8,0,0,0,0-1.136ZM12.869,14H4.4a.8.8,0,0,1-.8-.8V8.4a.8.8,0,0,1,.8-.8h8.47l3.2,3.2Z" transform="translate(2 1)" fill="#021d3d"/>
+  <rect id="Rectangle_3683" data-name="Rectangle 3683" width="24" height="24"   opacity="0"/>
+  <path id="label-2" data-name="label" d="M17.763,10.231l-4-4A.8.8,0,0,0,13.2,6H4.4A2.4,2.4,0,0,0,2,8.4v4.8a2.4,2.4,0,0,0,2.4,2.4h8.8a.8.8,0,0,0,.568-.232l4-4a.8.8,0,0,0,0-1.136ZM12.869,14H4.4a.8.8,0,0,1-.8-.8V8.4a.8.8,0,0,1,.8-.8h8.47l3.2,3.2Z" transform="translate(2 1)"  />
 </svg>

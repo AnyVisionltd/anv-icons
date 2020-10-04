@@ -1,4 +1,4 @@
 <svg id="Old_Abraxas_Point" data-name="Old Abraxas Point" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
-  <path id="Subtraction_21" data-name="Subtraction 21" d="M-10641,374.5h-8a2.4,2.4,0,0,1-2.4-2.4V360.9a2.4,2.4,0,0,1,2.4-2.4h8a2.4,2.4,0,0,1,2.4,2.4v11.2A2.4,2.4,0,0,1-10641,374.5Zm-4-3.5a1,1,0,0,0-1,1,1,1,0,0,0,1,1,1,1,0,0,0,1-1A1,1,0,0,0-10645,371Zm-4-10.366a.8.8,0,0,0-.8.8V368.9a.8.8,0,0,0,.8.8h8a.8.8,0,0,0,.8-.8v-7.466a.8.8,0,0,0-.8-.8Z" transform="translate(10657 -354.5)" fill="#021d3d"/>
+  <rect id="Shape" width="24" height="24"  opacity="0"/>
+  <path id="Subtraction_21" data-name="Subtraction 21" d="M-10641,374.5h-8a2.4,2.4,0,0,1-2.4-2.4V360.9a2.4,2.4,0,0,1,2.4-2.4h8a2.4,2.4,0,0,1,2.4,2.4v11.2A2.4,2.4,0,0,1-10641,374.5Zm-4-3.5a1,1,0,0,0-1,1,1,1,0,0,0,1,1,1,1,0,0,0,1-1A1,1,0,0,0-10645,371Zm-4-10.366a.8.8,0,0,0-.8.8V368.9a.8.8,0,0,0,.8.8h8a.8.8,0,0,0,.8-.8v-7.466a.8.8,0,0,0-.8-.8Z" transform="translate(10657 -354.5)"  />
 </svg>

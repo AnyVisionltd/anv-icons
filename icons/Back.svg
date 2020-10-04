@@ -1,4 +1,4 @@
 <svg id="Back" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
-  <path id="Back-2" data-name="Back" d="M16.991,11H9.407l3.3-3.287A1,1,0,1,0,11.286,6.29l-5,5a1.033,1.033,0,0,0,0,1.419l5,5A1,1,0,1,0,12.7,16.282l-3.3-3.287h7.584a1,1,0,1,0,0-2Z" transform="translate(-0.005 0.004)" fill="#021d3d"/>
+  <rect id="Shape" width="24" height="24"  opacity="0"/>
+  <path id="Back-2" data-name="Back" d="M16.991,11H9.407l3.3-3.287A1,1,0,1,0,11.286,6.29l-5,5a1.033,1.033,0,0,0,0,1.419l5,5A1,1,0,1,0,12.7,16.282l-3.3-3.287h7.584a1,1,0,1,0,0-2Z" transform="translate(-0.005 0.004)"  />
 </svg>

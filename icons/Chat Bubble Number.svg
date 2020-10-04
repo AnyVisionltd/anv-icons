@@ -1,6 +1,6 @@
 <svg id="Chat_Bubble_-_Number" data-name="Chat Bubble - Number" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
-  <path id="Comment" d="M.766,14.7H.752A.742.742,0,0,1,.22,13.43L1.74,11.909A7.612,7.612,0,0,1,4.867,0a6.9,6.9,0,0,0-.294,1.825A6.086,6.086,0,0,0,3.32,11.4a.763.763,0,0,1,0,1.071l-.7.709H7.629a6.075,6.075,0,0,0,5.6-3.731,8.874,8.874,0,0,0,1.71-.259,7.662,7.662,0,0,1-2.7,3.947A7.522,7.522,0,0,1,7.629,14.7H.771Z" transform="translate(4.5 4.805)" fill="#021d3d"/>
-  <ellipse id="Ellipse" cx="6.75" cy="6" rx="6.75" ry="6" transform="translate(10.5 0.75)" fill="#021d3d"/>
-  <text id="_3" data-name="3" transform="translate(17 9.25)" fill="#021d3d" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-2.072" y="0">3</tspan></text>
+  <rect id="Shape" width="24" height="24"  opacity="0"/>
+  <path id="Comment" d="M.766,14.7H.752A.742.742,0,0,1,.22,13.43L1.74,11.909A7.612,7.612,0,0,1,4.867,0a6.9,6.9,0,0,0-.294,1.825A6.086,6.086,0,0,0,3.32,11.4a.763.763,0,0,1,0,1.071l-.7.709H7.629a6.075,6.075,0,0,0,5.6-3.731,8.874,8.874,0,0,0,1.71-.259,7.662,7.662,0,0,1-2.7,3.947A7.522,7.522,0,0,1,7.629,14.7H.771Z" transform="translate(4.5 4.805)"  />
+  <ellipse id="Ellipse" cx="6.75" cy="6" rx="6.75" ry="6" transform="translate(10.5 0.75)"  />
+  <text id="_3" data-name="3" transform="translate(17 9.25)"  y="0">3</tspan></text>
 </svg>

@@ -1,7 +1,7 @@
 <svg id="Side_nav" data-name="Side nav" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="Shape" width="24" height="24" fill="#021d3d" opacity="0"/>
+  <rect id="Shape" width="24" height="24"  opacity="0"/>
   <g id="Side_nav-2" data-name="Side nav" transform="translate(4.5 4.5)">
-    <path id="Shape-2" data-name="Shape" d="M13.125,15H1.875A1.881,1.881,0,0,1,0,13.125V1.875A1.881,1.881,0,0,1,1.875,0h11.25A1.881,1.881,0,0,1,15,1.875v11.25A1.881,1.881,0,0,1,13.125,15ZM1.875,1.5a.376.376,0,0,0-.375.375v11.25a.376.376,0,0,0,.375.375h11.25a.376.376,0,0,0,.375-.375V1.875a.376.376,0,0,0-.375-.375Z" fill="#021d3d" opacity="0.24"/>
-    <path id="Shape-3" data-name="Shape" d="M0,0H5.5a2,2,0,0,1,2,2V13a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(7.5)" fill="#021d3d"/>
+    <path id="Shape-2" data-name="Shape" d="M13.125,15H1.875A1.881,1.881,0,0,1,0,13.125V1.875A1.881,1.881,0,0,1,1.875,0h11.25A1.881,1.881,0,0,1,15,1.875v11.25A1.881,1.881,0,0,1,13.125,15ZM1.875,1.5a.376.376,0,0,0-.375.375v11.25a.376.376,0,0,0,.375.375h11.25a.376.376,0,0,0,.375-.375V1.875a.376.376,0,0,0-.375-.375Z"  opacity="0.24"/>
+    <path id="Shape-3" data-name="Shape" d="M0,0H5.5a2,2,0,0,1,2,2V13a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(7.5)"  />
   </g>
 </svg>

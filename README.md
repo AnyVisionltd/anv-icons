@@ -5,7 +5,7 @@
   </br>
   </br>
   <span>
-    <a href="https://www.anyvision.co/">AnyVision</a> collection of React components.
+    <a href="https://www.anyvision.co/">AnyVision</a> Icons Library.
   </span>
 
 </p>

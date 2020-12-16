@@ -10,7 +10,7 @@ pipeline {
         buildDiscarder(logRotator(numToKeepStr:'50'))        
     }    
     libraries {
-        lib('pipeline-library')
+        lib('pipeline-library@on-demand-ron')
     }
     environment {
         SHORT_COMMIT = "${GIT_COMMIT[0..6]}"

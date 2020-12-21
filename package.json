@@ -4,7 +4,7 @@
   "description": "Anyvision Icons Library",
   "main": "dist/index.js",
   "scripts": {
-    "build": "npx @svgr/cli -d ./temp ./icons && rollup -c && rm -rf ./temp",
+    "build": "npx @svgr/cli --icon -d ./temp ./icons && rollup -c && rm -rf ./temp",
     "prepublishOnly": "npm run build",
     "test-jenkins": "echo 'No Tests'"
   },

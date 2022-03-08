@@ -1,0 +1,12 @@
+<svg id="EditIP" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_27018" data-name="Group 27018">
+    <rect id="Rectangle_4350" data-name="Rectangle 4350" width="24" height="24" fill="none"/>
+  </g>
+  <g id="Group_27020" data-name="Group 27020">
+    <g id="Group_27019" data-name="Group 27019" transform="translate(5 4)">
+      <path id="Path_28008" data-name="Path 28008" d="M12.084,10.8H8.062V6.84L12.62,2.352A6.73,6.73,0,0,0,10.5,2,6.413,6.413,0,0,0,4,8.56Q4,12.544,10.5,18q6.5-5.46,6.5-9.44a6.86,6.86,0,0,0-.366-2.24Z" transform="translate(-4 -1)" fill="#3e7afc"/>
+      <path id="Path_28009" data-name="Path 28009" d="M11,11h2.12l6.16-6.16L17.16,2.72,11,8.88Z" transform="translate(-7.001 -1)" fill="#3e7afc"/>
+      <path id="Path_28010" data-name="Path 28010" d="M20.71,2,20,1.29A1.024,1.024,0,0,0,19.29,1a1.18,1.18,0,0,0-.71.29l-.72.72,2.12,2.12.72-.72A.987.987,0,0,0,20.71,2Z" transform="translate(-7.001 -1)" fill="#3e7afc"/>
+    </g>
+  </g>
+</svg>

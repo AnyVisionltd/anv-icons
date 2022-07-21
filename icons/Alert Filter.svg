@@ -1,0 +1,9 @@
+<svg id="alert_filter" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Filter" transform="translate(-1727)" opacity="0.996">
+    <g id="filter_google" transform="translate(1727)">
+      <path id="Path_27358" data-name="Path 27358" d="M0,0H24m0,24H0" fill="none"/>
+      <path id="Path_27359" data-name="Path 27359" d="M4.2,5.207C5.721,7.15,8.534,10.75,8.534,10.75v4.5a.754.754,0,0,0,.754.75H10.8a.754.754,0,0,0,.754-.75v-4.5s2.805-3.6,4.328-5.543A.748.748,0,0,0,15.283,4H4.794A.748.748,0,0,0,4.2,5.207Z" transform="translate(1.961 2)" fill="currentColor"/>
+      <path id="Path_27360" data-name="Path 27360" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>
